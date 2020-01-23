@@ -1,1 +1,3 @@
 #Hey Everybody, I'm Dr. Nick
+#this is a comment in python
+#this is a text file, so why am I writing comments in python?
