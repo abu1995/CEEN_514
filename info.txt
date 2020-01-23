@@ -3,6 +3,8 @@
 #this is a text file, so why am I writing comments in python?
 
 import os
+inclassdemo
 import hydroshare
 
 #here is some new code that should be part of the branch.
+
